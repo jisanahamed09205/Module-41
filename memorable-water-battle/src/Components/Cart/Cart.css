@@ -1,0 +1,8 @@
+.cart-container img{ 
+    width: 100px;
+    margin-right:10px ;
+}
+.cart-remove-btn{
+    background-color: aquamarine;
+    border-radius: 10px;
+}
